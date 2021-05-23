@@ -1,0 +1,103 @@
+/* header{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #2674f4;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+} */
+h1{
+    margin: 0px;
+    padding: 20px 0px 20px 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    color: #f4f4f4;
+    background-color: #2674f4;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 100%;
+}
+body{
+    background-color: #dce5f5;
+    font-family: 'Cutive Mono', monospace;
+    color:#212121;
+    margin: 0px;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin: 0px;
+}
+img{
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+}
+section{
+    display: flex;
+    margin-top: 20px;
+}
+.frutas{
+    background-color: #f4f4f4;
+    font-size: 30px;
+    padding: 0px;
+    margin-left: 50px;
+    margin-top: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 16px;
+    width: 300px;
+}
+.frutas:hover{
+    box-shadow: 0 16px 32px 0 rgba(0,0,0,0.2);
+}
+.listafrutas{
+    font-size: 20px;
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 30px;
+    padding-left: 76px;
+    padding-right: 16px;
+}
+.carne{
+    background-color: #f4f4f4;
+    font-size: 30px;
+    padding: 0px;
+    margin-left: 50px;
+    margin-top: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 16px;
+    width: 300px;
+    height: 100%;
+}
+.carne:hover{
+    box-shadow: 0 16px 32px 0 rgba(0,0,0,0.2);
+}
+.listacarnes{
+    font-size: 20px;
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 30px;
+    padding-left: 76px;
+    padding-right: 16px;
+}
+.verdura{
+    background-color: #f4f4f4;
+    font-size: 30px;
+    padding: 0px;
+    margin-left: 50px;
+    margin-top: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 16px;
+    width: 300px;
+    height: 100%;
+}
+.verdura:hover{
+    box-shadow: 0 16px 32px 0 rgba(0,0,0,0.2);
+}
+.listaverduras{
+    font-size: 20px;
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 30px;
+    padding-left: 76px;
+    padding-right: 16px;
+}
